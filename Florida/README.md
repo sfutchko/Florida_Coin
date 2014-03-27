@@ -1,11 +1,10 @@
 # FloridaCoin [FLC]
 http://floridacoinco.in/
 
-![FloridaCoin](http://i.imgur.com/POAtUZV.png)
+![FloridaCoin](http://www.floridacoin.co/wp-content/uploads/2014/03/bitcoin_testnet.png)
 
 ## What is FloridaCoin?
-floridacoin is an experiment in fast-hashing blocks combined with the Kimoto Gravity Well technology. 
-Using the same reward and block parameters as Dogecoin, we've increased the block find and retarget 
+floridacoin is an experiment in fast-hashing blocks combined with the Kimoto Gravity Well technology. we've increased the block find and retarget 
 rates to reach a quicker end-of-life cycle while preventing large multipool abuse with KGW difficulty recalculating.
 
 ## License
@@ -15,7 +14,7 @@ for more information.
 ## FAQ
 
 ### Max coins?
-100 billion coins, just like DOGE.
+10 billion coins, just like DOGE.
 
 ### Coin type?
 FloridaCoin is a Scrypt-based Proof of Work coin using the Komoto Gravity Well.
@@ -46,10 +45,6 @@ rpcuser=FloridaCoin
 
 rpcpassword=fluffytail
 
-rpcport=82555
+rpcport=55883
 
-addnode=107.170.47.66
-
-addnode=162.243.109.193
-
-addnode=162.243.212.143
+addnode=107.170.251.5
